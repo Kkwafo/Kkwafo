@@ -1,82 +1,191 @@
-## Hi there! 👋 I'm Kofi Kwafo Awua  
+<h1 align="center">Hi there! 👋 I'm Kofi Kwafo Awua</h1>
 
-🚀 **Technology Teacher & Full-Stack Developer**  
-🌍 Passionate about technology, education, and the environment  
-💡 Always eager to grow, learn, and create  
-
----
-
-### 📌 **About Me**  
-I'm a **Technology Teacher** and **Full-Stack Developer** with a deep passion for innovation, education, and sustainability. I believe in the power of technology to transform lives and always seek ways to integrate it into education and environmental initiatives.  
-
-I love building web applications, solving problems, and working with teams that inspire me to keep learning. My goal is to **keep growing every day, embracing challenges, and expanding my knowledge** in both technology and education.  
+<p align="center">
+🚀 <b>Technology Teacher & Full-Stack Developer</b> <br>
+🌍 Passionate about technology, education, and the environment <br>
+💡 Always eager to grow, learn, and create
+</p>
 
 ---
 
-### 🚀 **Tech Stack**  
-**💻 Languages & Frameworks:**  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)  
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)  
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)  
-![JPA](https://img.shields.io/badge/JPA-007396?style=for-the-badge&logo=java&logoColor=white)  
-![Vite.js](https://img.shields.io/badge/Vite.js-646CFF?style=for-the-badge&logo=vite&logoColor=white)  
-![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)  
+## 🏆 About Me  
+🎓 **Technology Teacher & Full-Stack Developer** with a deep passion for **innovation, education, and sustainability**.  
+💻 I love **building web applications**, solving problems, and working in teams that inspire me to **keep learning**.  
+🎯 My goal is to **grow every day, embrace challenges, and expand my knowledge** in both **technology and education**.  
 
-**🛠️ Databases:**  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
-![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  
+## 🚀 Tech Stack  
 
-**⚡ Other Skills:**  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)  
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)  
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)  
-![MERN](https://img.shields.io/badge/MERN-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
-![Apache Tomcat](https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=apache-tomcat&logoColor=black)  
-![Putty](https://img.shields.io/badge/Putty-1E90FF?style=for-the-badge&logo=windows-terminal&logoColor=white)  
-
----
-
-### 🎓 **Education**  
-📚 **Bachelor’s Degree in Educational Technologies (In Progress)** – Universidad Tecnológica Nacional, Facultad Regional Córdoba (UTN-FRC)  
-🎓 **Technology Teacher** – Instituto Superior de Profesorado Tecnológico  
-🎓 **Food Industry Technician** – Universidad Tecnológica Nacional, Córdoba  
-
----
-
-### 🌍 **Languages**  
-🇪🇸 **Spanish:** Native  
-🇬🇧 **English:** B2  
+<table align="center">
+  <tr>
+    <td align="center" width="150">
+      <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML5"><br>HTML5
+    </td>
+    <td align="center" width="150">
+      <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS3"><br>CSS3
+    </td>
+    <td align="center" width="150">
+      <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript"><br>JavaScript
+    </td>
+    <td align="center" width="150">
+      <img src="https://skillicons.dev/icons?i=typescript" height="40" alt="TypeScript"><br>TypeScript
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="150">
+      <img src="https://skillicons.dev/icons?i=react" height="40" alt="React"><br>React.js
+    </td>
+    <td align="center" width="150">
+      <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="Next.js"><br>Next.js
+    </td>
+    <td align="center" width="150">
+      <img src="https://skillicons.dev/icons?i=vite" height="40" alt="Vite.js"><br>Vite.js
+    </td>
+    <td align="center" width="150">
+      <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js"><br>Node.js
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 📊 **GitHub Stats**  
-![Kofi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kkwafo&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kkwafo&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kkwafo&theme=tokyonight)  
+## 🛠️ Databases  
+
+<table align="center">
+  <tr>
+    <td align="center" width="150">
+      <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="MongoDB"><br>MongoDB
+    </td>
+    <td align="center" width="150">
+      <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL"><br>MySQL
+    </td>
+    <td align="center" width="150">
+      <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="PostgreSQL"><br>PostgreSQL
+    </td>
+    <td align="center" width="150">
+      <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="Firestore"><br>Firestore
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🤝 **Connect with Me**  
-🔗 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kofi-kwafo-awua-3b4350151/)  
-💻 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kkwafo)  
-📧 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kofikwafoawua@gmail.com)  
+## ⚡ Other Skills  
+
+<table align="center">
+  <tr>
+    <td align="center" width="150">
+      <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git"><br>Git
+    </td>
+    <td align="center" width="150">
+      <img src="https://skillicons.dev/icons?i=redux" height="40" alt="Redux"><br>Redux
+    </td>
+    <td align="center" width="150">
+      <img src="https://skillicons.dev/icons?i=graphql" height="40" alt="GraphQL"><br>GraphQL
+    </td>
+    <td align="center" width="150">
+      <img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker"><br>Docker
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🌟 **Words of Encouragement**  
-> _"Start where you are right now! Keep moving forward! Persevere always! This is what it means to live with purpose: advancing from this very moment."_  
+## 🔐 Authentication & Security  
+
+<table align="center">
+  <tr>
+    <td align="center" width="150">
+      <img src="https://cdn.worldvectorlogo.com/logos/jwt-3.svg" height="40" alt="JWT"><br>JWT
+    </td>
+    <td align="center" width="150">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/d/d2/Oauth_logo.svg" height="40" alt="OAuth 2.0"><br>OAuth 2.0
+    </td>
+  </tr>
+</table>
 
 ---
 
-🚀 **Thanks for visiting my profile! Let's build something amazing together.**  
+## 📡 Microservices & Messaging  
+
+<table align="center">
+  <tr>
+    <td align="center" width="150">
+      <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" height="40" alt="RabbitMQ"><br>RabbitMQ
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🛠️ Testing & Code Quality  
+
+<table align="center">
+  <tr>
+    <td align="center" width="150">
+      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="40" alt="Postman"><br>Postman
+    </td>
+    <td align="center" width="150">
+      <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" height="40" alt="Jest"><br>Jest
+    </td>
+  </tr>
+</table>
+
+
+
+## 📊 GitHub Stats  
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kkwafo&show_icons=true&theme=graywhite" height="180">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kkwafo&layout=compact&theme=graywhite" height="180">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kkwafo&theme=graywhite" height="180">
+</div>
+
+---
+
+## 🎓 Education  
+
+| Degree | Institution |
+|--------|------------|
+| 🎓 **Bachelor’s Degree in Educational Technologies (In Progress)** | Universidad Tecnológica Nacional, Facultad Regional Córdoba (UTN-FRC) |
+| 📚 **Technology Teacher** | Instituto Superior de Profesorado Tecnológico |
+| 🎓 **Food Industry Technician** | Universidad Tecnológica Nacional, Córdoba |
+
+---
+
+## 🌍 Languages  
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Spanish-Native-blue?style=for-the-badge">
+  <a href="https://cert.efset.org/hjt6Zb">
+    <img src="https://img.shields.io/badge/English-B2-lightgrey?style=for-the-badge">
+  </a>
+</div>
+
+---
+
+## 🤝 Connect with Me  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/kofi-kwafo-awua-3b4350151/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://github.com/Kkwafo">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="mailto:kofikwafoawua@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</p>
+
+---
+
+## 🌟 Words of Encouragement  
+
+<p align="center">
+<em>"Start where you are right now! Keep moving forward! Persevere always!  
+This is what it means to live with purpose: advancing from this very moment."</em>
+</p>
+
+---
+
+<p align="center">🔥 <b>Thanks for visiting my profile! Let's build something amazing together.</b> 🚀</p>
