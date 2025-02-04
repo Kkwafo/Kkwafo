@@ -15,36 +15,62 @@
 
 ## 🚀 Tech Stack  
 
+## 🚀 Tech Stack  
+
 <table align="center">
   <tr>
-    <td align="center" width="150">
-      <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML5"><br>HTML5
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kkwafo&layout=compact&langs_count=100&theme=graywhite" height="250">
     </td>
-    <td align="center" width="150">
-      <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS3"><br>CSS3
-    </td>
-    <td align="center" width="150">
-      <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript"><br>JavaScript
-    </td>
-    <td align="center" width="150">
-      <img src="https://skillicons.dev/icons?i=typescript" height="40" alt="TypeScript"><br>TypeScript
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="150">
-      <img src="https://skillicons.dev/icons?i=react" height="40" alt="React"><br>React.js
-    </td>
-    <td align="center" width="150">
-      <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="Next.js"><br>Next.js
-    </td>
-    <td align="center" width="150">
-      <img src="https://skillicons.dev/icons?i=vite" height="40" alt="Vite.js"><br>Vite.js
-    </td>
-    <td align="center" width="150">
-      <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js"><br>Node.js
+    <td align="center" width="50%">
+      <table align="center">
+        <tr>
+          <td align="center" width="150">
+            <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML5"><br>HTML5
+          </td>
+          <td align="center" width="150">
+            <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS3"><br>CSS3
+          </td>
+          <td align="center" width="150">
+            <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript"><br>JavaScript
+          </td>
+          <td align="center" width="150">
+            <img src="https://skillicons.dev/icons?i=typescript" height="40" alt="TypeScript"><br>TypeScript
+          </td>
+        </tr>
+        <tr>
+          <td align="center" width="150">
+            <img src="https://skillicons.dev/icons?i=java" height="40" alt="Java"><br>Java
+          </td>
+          <td align="center" width="150">
+            <img src="https://skillicons.dev/icons?i=spring" height="40" alt="Spring Boot"><br>Spring Boot
+          </td>
+          <td align="center" width="150">
+            <img src="https://skillicons.dev/icons?i=gradle" height="40" alt="Gradle"><br>Gradle
+          </td>
+          <td align="center" width="150">
+            <img src="https://skillicons.dev/icons?i=maven" height="40" alt="Maven"><br>Maven
+          </td>
+        </tr>
+        <tr>
+          <td align="center" width="150">
+            <img src="https://skillicons.dev/icons?i=react" height="40" alt="React"><br>React.js
+          </td>
+          <td align="center" width="150">
+            <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="Next.js"><br>Next.js
+          </td>
+          <td align="center" width="150">
+            <img src="https://skillicons.dev/icons?i=vite" height="40" alt="Vite.js"><br>Vite.js
+          </td>
+          <td align="center" width="150">
+            <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js"><br>Node.js
+          </td>
+        </tr>
+      </table>
     </td>
   </tr>
 </table>
+
 
 ---
 
@@ -136,9 +162,10 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kkwafo&show_icons=true&theme=graywhite" height="180">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kkwafo&layout=compact&theme=graywhite" height="180">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kkwafo&theme=graywhite" height="180">
+
 </div>
+
 
 ---
 
@@ -158,6 +185,10 @@
   <img src="https://img.shields.io/badge/Spanish-Native-blue?style=for-the-badge">
   <a href="https://cert.efset.org/hjt6Zb">
     <img src="https://img.shields.io/badge/English-B2-lightgrey?style=for-the-badge">
+  </a>
+  <br>
+  <a href="https://cert.efset.org/hjt6Zb" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Click%20here%20to%20view%20the%20certificate-%E2%86%92-blue?style=flat-square">
   </a>
 </div>
 
