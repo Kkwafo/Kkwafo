@@ -13,7 +13,6 @@
 💻 I love **building web applications**, solving problems, and working in teams that inspire me to **keep learning**.  
 🎯 My goal is to **grow every day, embrace challenges, and expand my knowledge** in both **technology and education**.  
 
-## 🚀 Tech Stack  
 
 ## 🚀 Tech Stack  
 
