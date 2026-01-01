@@ -88,33 +88,6 @@ I’m a **Technology Teacher** and **Full-Stack Developer** focused on building 
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/Kkwafo/North-Winds-Project">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kkwafo&repo=North-Winds-Project&theme=transparent&hide_border=true&cache_seconds=86400" />
-</a>
-
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Kkwafo&show_icons=true&theme=transparent&hide_border=true&cache_seconds=86400" />
-<img height="170" src="https://streak-stats.demolab.com?user=Kkwafo&theme=transparent&hide_border=true" />
-
-<br/>
-
-<img height="240" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kkwafo&layout=compact&langs_count=12&theme=transparent&hide_border=true&cache_seconds=86400" />
-
-</div>
-
----
-
 ## 🎓 Education
 
 | Degree | Institution |
