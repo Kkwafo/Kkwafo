@@ -1,40 +1,78 @@
 <!-- GitHub profile · Kofi Kwafo Awua -->
-<img src="./assets/workshop.png" width="520" alt="Kofi Kwafo Awua’s workshop, illustrated with a coral computer and a robot arm.">
+<p align="center">
+  <picture>
+    <source media="(max-width: 560px)" srcset="./assets/workshop-mobile.png">
+    <img src="./assets/workshop.png" width="100%" alt="Kofi Kwafo Awua’s workshop, illustrated with a coral computer and a robot arm.">
+  </picture>
+</p>
 
-# Hey, I’m Kofi 👋
+<h1 align="center">Hey, I’m Kofi 👋</h1>
+<p align="center"><strong>Software Engineer · Tech Lead · Technology Educator</strong></p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/kofi-kwafo-awua-3b4350151/">LinkedIn</a> ·
+  <a href="mailto:kofikwafoawua@gmail.com">Email</a> ·
+  <a href="https://github.com/Kkwafo?tab=repositories">Repositories</a>
+</p>
 
-**Software Engineer · Tech Lead · Technology Educator**
+I lead software delivery in financial services and build AI tools that make work and learning easier. At my workbench, an assistant can show you the next step, and a prototype can help you say hello with your eyes.
 
-I lead software delivery in financial services and build AI projects for two very different jobs: helping people get work done and making technology easier to use and learn.
+## 🛠️ On the workbench
 
-[**Open the interactive workshop ↗**](https://kkwafo.github.io/Kkwafo/) · [LinkedIn](https://www.linkedin.com/in/kofi-kwafo-awua-3b4350151/) · [Email](mailto:kofikwafoawua@gmail.com) · [Repositories](https://github.com/Kkwafo?tab=repositories)
+<details open>
+<summary><strong>👁️ Mekasa</strong> · How would you say “Hello” with your eyes?</summary>
 
-## What I build
+<p align="center">
+  <picture>
+    <source media="(prefers-reduced-motion: reduce) and (max-width: 560px)" srcset="./assets/mekasa-mobile.png">
+    <source media="(prefers-reduced-motion: reduce)" srcset="./assets/mekasa.png">
+    <source media="(max-width: 560px)" srcset="./assets/mekasa-mobile.gif">
+    <img src="./assets/mekasa.gif" width="100%" alt="Mekasa interaction concept. A gaze marker moves onto the Hello tile and fills a progress ring before selecting it.">
+  </picture>
+</p>
 
-**💬 SKEP** · AI assistants that guide people through a product and automate routine steps.
+I’m prototyping a communication board with **Python and MediaPipe**. The animation shows the idea: hold your gaze on a tile long enough to select a word. I use facial landmarks to study gaze and test choices such as tile size and dwell time.
 
-**👁️ Mekasa** · A Python and MediaPipe prototype for selecting words with your gaze.
-
-**🧩 Business and AI** · I turn business rules into working software for transaction processing, reporting and integrations. For AI pilots, I start with the workflow and measure whether a change actually helps.
-
-<details>
-<summary>How these projects work</summary>
-
-**SKEP.** I work with structured outputs, retrieval-augmented generation (RAG), embeddings and tool calling. A guided workflow can retrieve instructions and propose the next step while the application checks permissions.
-
-**Mekasa.** I use landmarks around the face and eyes to estimate gaze. Dwell time, tile size and false selections shape how the interface feels to use.
-
-**AI adoption.** I map the process with the people who do the work, prioritize by impact and feasibility, and compare a pilot with its baseline. For a document review pilot, I’d track turnaround time and rework, and plan for human review, privacy, auditability and training.
+[Try the pointer simulation ↗](https://kkwafo.github.io/Kkwafo/#mekasa)
 
 </details>
 
-## Tools I use
+<details>
+<summary><strong>💬 SKEP</strong> · An AI guide that shows you what to do next</summary>
 
-<img src="https://skillicons.dev/icons?i=java,spring,react,ts,python,pytorch,tensorflow,fastapi,postgres,docker,git&amp;perline=11" width="450" alt="Java, Spring, React, TypeScript, Python, PyTorch, TensorFlow, FastAPI, PostgreSQL, Docker and Git">
+<p align="center">
+  <picture>
+    <source media="(max-width: 560px)" srcset="./assets/skep-mobile.png">
+    <img src="./assets/skep.png" width="100%" alt="SKEP concept illustration. A person asks where to start, and the assistant points to the next action.">
+  </picture>
+</p>
+
+I build **LLM assistants** that retrieve instructions and guide people through routine work. Structured outputs and tool calling connect the assistant to the product. The application checks permissions before running an action.
+
+[Ask the simulated assistant ↗](https://kkwafo.github.io/Kkwafo/#skep)
+
+</details>
+
+<details>
+<summary><strong>🧩 Business and AI</strong> · Find a workflow worth improving</summary>
+
+I turn business rules into transaction processing, reporting and integrations. For an AI pilot, I start with the people who do the work, check what data they have, then measure whether the pilot helps. For document review, I’d track turnaround time and rework, with human review, privacy and auditability built into the rollout.
+
+[Compare two sample workflows ↗](https://kkwafo.github.io/Kkwafo/#business)
+
+</details>
+
+<p align="center"><strong><a href="https://kkwafo.github.io/Kkwafo/">Open the full interactive workshop ↗</a></strong></p>
+
+## 🧰 Tools I use
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,react,ts,python,pytorch&amp;perline=6" width="285" alt="Java, Spring, React, TypeScript, Python and PyTorch">
+  <img src="https://skillicons.dev/icons?i=tensorflow,fastapi,postgres,docker,git&amp;perline=5" width="237" alt="TensorFlow, FastAPI, PostgreSQL, Docker and Git">
+</p>
 
 **Software delivery.** Java, Spring Boot and Spring Batch, React, TypeScript, RabbitMQ, SQL Server, PostgreSQL, Docker and CI/CD.
 
-**AI engineering.** Python, neural network design, training and evaluation with PyTorch and TensorFlow/Keras. I work across model and application layers, from datasets and held-out tests to LLM agents, fine-tuning and model serving.
+**AI engineering.** I use Python to prepare datasets, design neural networks, train with PyTorch or TensorFlow/Keras, and test on examples the model has never seen. I also work with LLM agents, fine-tuning and model serving.
 
 <details>
 <summary>Open the toolbox</summary>
@@ -45,15 +83,23 @@ I lead software delivery in financial services and build AI projects for two ver
 
 </details>
 
-## In the classroom
+## 🎒 In the classroom
 
 I design asynchronous learning experiences and study how teachers choose tools for programming and robotics. I use AI for lesson design and feedback, and teach students to check claims, look for bias and protect their data.
 
 <details>
-<summary>🔎 Try this. Did the model learn to spot a cat or a blue background?</summary>
+<summary><strong>🔎 Mini challenge</strong> · Did the model spot a cat or a blue background?</summary>
 
-Imagine that nearly every cat in your training set has a blue background. Show the model a cat on a yellow background and a dog on a blue one. If it calls the dog a cat, it may have learned to rely on the background. Use fresh examples to check, then improve the training set and test again.
+<p align="center"><img src="./assets/patterns.png" width="100%" alt="Two example cats on blue backgrounds and a new cat on a yellow background."></p>
 
+Most cats in the training set had blue backgrounds. You have two new pictures: a cat on yellow and a dog on blue. Which one would help you catch the model taking a shortcut?
+
+<details>
+<summary>Reveal the answer</summary>
+
+Use both. A model that recognizes the animal should identify the cat on yellow and reject the dog on blue. If it does the opposite, the background may be driving its prediction.
+
+</details>
 </details>
 
 <details>
@@ -67,4 +113,8 @@ Imagine that nearly every cat in your training set has a blue background. Show t
 
 </details>
 
-<img src="https://komarev.com/ghpvc/?username=Kkwafo&amp;style=flat-square&amp;color=51449E" alt="Profile views"> <img src="https://img.shields.io/github/followers/Kkwafo?label=Followers&amp;style=flat-square&amp;color=1168AE" alt="GitHub followers"> <img src="https://img.shields.io/github/stars/Kkwafo?label=Stars&amp;style=flat-square&amp;color=C44755" alt="GitHub stars">
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Kkwafo&amp;style=flat-square&amp;color=51449E" alt="Profile views">
+  <img src="https://img.shields.io/github/followers/Kkwafo?label=Followers&amp;style=flat-square&amp;color=1168AE" alt="GitHub followers">
+  <img src="https://img.shields.io/github/stars/Kkwafo?label=Stars&amp;style=flat-square&amp;color=C44755" alt="GitHub stars">
+</p>
